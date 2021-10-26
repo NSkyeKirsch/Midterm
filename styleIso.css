@@ -1,3 +1,12 @@
 body {
   background: url(IsolationBG.png);
 }
+
+.content {
+  width: 900px;
+  padding: 20px;
+  margin-top: 30px;
+  margin-left: 40vh;
+  margin-right: 50vh;
+  box-shadow: 2px 2px 10px 20px rgba(0, 0, 255, 0.2);
+}
