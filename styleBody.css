@@ -1,0 +1,36 @@
+body {
+  background-size: contain;
+  background-image: url(Body-BG.png);
+}
+
+body, html {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  padding: 0px;
+  margin: 0px;
+}
+
+.page {
+ display: flex;
+ overflow: visible;
+ margin: 0px;
+ padding: 0px;
+}
+
+p {
+  font-size: 200px;
+  top: 100px;
+  left: 0px;
+}
+
+#link {
+  padding-left: 1000px;
+  font-size: 64px;
+}
+
+#p2 {
+  color: white;
+}

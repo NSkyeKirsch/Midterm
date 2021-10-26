@@ -1,0 +1,46 @@
+body {
+  background: url(Music-BG.png)
+}
+
+h1 {
+  margin-left: 550px;
+}
+
+.page{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+
+.picColor{
+      width:320px;
+      height:240px;
+      background-size: cover;
+      border:5px solid #000000;
+      margin: 40px;
+    }
+    .picColor:hover
+    {
+      opacity:1;
+      background:#FFFFFF;
+      width:320px;
+      height:240px;
+    }
+
+#Blue {
+  background: url(WelcomeFlowerBlue.png);
+}
+
+#Orange {
+  background: url(WelcomeFlowerOrange.png);
+
+}
+
+#Yellow {
+  background: url(WelcomeFlowerYellow.png);
+}
+
+#Purple {
+  background: url(WelcomeFlowerPurple.png)
+}
