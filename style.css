@@ -46,6 +46,18 @@ body {
   transform: rotateY(180deg);
 }
 
+.box {
+  margin-top: 100px;
+}
+
+
+a {
+  color: lightBlue;
+  text-decoration: none;
+}
+
 a:hover {
-  transform: scale(1.5);
+  color: white;
+  font-family: cursive;
+  font-size: 32px;
 }
